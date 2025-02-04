@@ -6,7 +6,7 @@ const Navbar = () => {
         <>
             <nav className="navbar navbar-expand-lg ">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">Balu</a>
+                    <a className="navbar-brand" href="#"><i className="fa-solid fa-paw"></i>Balu</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -16,7 +16,7 @@ const Navbar = () => {
                                 <a className="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Link</a>
+                                <a className="nav-link" href="#">Store</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link " href="#">Contact us</a>
@@ -24,7 +24,7 @@ const Navbar = () => {
                         </ul>
                         <form className="d-flex" role="search">
                             <input className="form-control me-2" type="search" placeholder="  Know the breed?" aria-label="Search"/>
-                                <button className="btn btn-secondary" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                                <button className="btn btn-secondary" type="submit"><i className="fa-solid fa-magnifying-glass"></i></button>
                         </form>
                     </div>
                 </div>

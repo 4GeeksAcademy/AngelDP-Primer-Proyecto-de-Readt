@@ -1,12 +1,12 @@
 .navbar {
     padding-left: 10%;
-    background-color: rgb(50, 78, 240);
+    background-color: aqua;
     font-size: 1em;
 }
 
 .navbar-brand {
-    color: white;
-    font-size: 2.5em;
+    color: black;
+    font-size: 3.5rem;
 }
 
 .nav-item {
@@ -14,3 +14,6 @@
     font-size: 1.5em;
 }
 
+.fa-paw {
+    padding-right: 5px;
+}

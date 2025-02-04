@@ -1,9 +1,9 @@
 .myFooter {
-    background-color: rgb(50, 78, 240);
+    background-color: aqua;
     margin-top: 10px;
 }
 
 .myFooterText {
     font-size: 1rem;
-    color: white;
+    color: black;
 }
